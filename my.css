@@ -1,0 +1,130 @@
+.mainDiv{
+    display: flex;
+   
+    height: 490px;
+    background-color:rgb(40,13,27);
+    color: white;
+    margin: 10px;
+    margin-bottom: 0px;
+   
+}
+div img{
+    width: 500px;
+    height: 400px;
+    
+   
+   
+    
+}
+.img{
+    padding: 10px;
+    padding-top: 90px;
+}
+
+.head3{
+    padding-top: 20px;
+    padding-left: 10px;
+    color: rgb(21,207,129);
+
+}
+.pa{
+    padding-top: 60px;
+    padding-left: 10px;
+    color: rgb(21,207,129);
+    font-weight: 800;
+    
+    font-family: 'Times New Roman', Times, serif;
+   
+    
+}
+.head4{
+    padding-left:55px;
+    padding-top: 30px;
+   
+  
+}
+.btn{
+   
+ 
+    margin: 70px;
+    padding: 6px;
+    background-color: rgb(254,0,120);
+    border: 1px solid white;
+    border-radius: 6px;
+    color: black;
+}
+/* .body{
+    background-color: rgb(14,20,25);
+} */
+.sec1{
+    display: flex;
+   
+   
+}
+.sec2{
+   
+    padding: 30px;
+    padding-top: 30px;
+    border: 6px solid crimson;
+    margin-left: 20px;
+   
+   
+}
+.sec4{
+    background-color:rgb(26,29,44);
+    height: 500px;
+    margin-top: 1px;
+  
+   margin-left: 5px;
+   margin-right: 5px;
+}
+.para2{
+    color: rgb(21,207,129);
+    text-align: center;
+    padding: 10px;
+   
+}
+.h7{
+    padding-left: 250px;
+    color: rgb(21,207,129);
+    padding-top: 40px;
+    border-left: 7px dotted crimson;
+    border-radius: 90px;
+}
+.h8{
+    border-right: 7px solid crimson ;
+    
+}
+.nav1{
+    height: 50px;
+    background-color: rgb(189,188,191);
+    padding: 12px;
+    margin: 10px;
+    
+}
+nav  a{
+    text-decoration: none;
+    
+   
+    color: green;
+    font-weight: 900;
+    font-size: 15px;
+  
+    margin-top: 10px;
+    margin-left: 34px;
+}
+nav img{
+    height: 50px;
+    width: 50 px;
+}
+ nav button{
+    padding-right:  0px;
+    margin-right: 0px;
+ }
+ .footer {
+   margin: 3px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+  }
